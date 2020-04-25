@@ -1,0 +1,18 @@
+#step 1
+
+open my-app directory in you console
+run
+npm install
+npm start 
+
+#step 2
+
+open node-rest-api directory in you console
+run
+npm install
+npm start 
+
+#step3 
+
+open node-rest-api\app\config and change monogdb connections details
+mongodb://adil:adil123@ds259105.mlab.com:59105/anu
